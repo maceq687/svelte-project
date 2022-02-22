@@ -36,4 +36,5 @@ This repository contains a template for a Svelte + Tailwind app which should hav
 
 ## Submission
 
-Please push your code to this repository after you're finished.
+Please fork this repo and, push your code to your fork and then
+email Metafy a link to your private repo after you are finished.
