@@ -2,6 +2,10 @@ const config = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
 
   theme: {
+    fontFamily: {
+      'semibold': ['Suisse SemiBold', 'sans-serif'],
+      'normal': ['Suisse Regular', 'sans-serif']
+    },
     fontSize: {
       xxs: '0.625rem',
       xs: '0.75rem',
@@ -98,6 +102,9 @@ const config = {
         0.08: '0.08em',
         0.1: '0.1em',
         0.12: '0.12em',
+      },
+      lineHeight: {
+        120: '1.2',
       },
       borderRadius: {
         xl: '0.625rem', // or 10px

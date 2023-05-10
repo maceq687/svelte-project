@@ -33,8 +33,3 @@ This repository contains a template for a Svelte + Tailwind app which should hav
 - The right-hand side should show the selected coach (avatar, name, and title) and the order subtotal. The coach is an instance of the "coach" data type. The subtotal displays the total price, taking into account the base lesson price and the number of selected replays.
 
 - If there are more than 2 replays selected, a 10% discount should be applied on the total order.
-
-## Submission
-
-Please fork this repo and, push your code to your fork and then
-email Metafy a link to your private repo after you are finished.
