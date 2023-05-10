@@ -1,6 +1,6 @@
 {
   ".svelte-kit/generated/nodes/0.js": {
-    "file": "_app/immutable/chunks/0-bb94e197.js",
+    "file": "svelte-project/immutable/chunks/0-a1e17f2e.js",
     "imports": [
       "__layout-da46b06b.js",
       "src/routes/+layout.svelte"
@@ -9,7 +9,7 @@
     "src": ".svelte-kit/generated/nodes/0.js"
   },
   ".svelte-kit/generated/nodes/1.js": {
-    "file": "_app/immutable/chunks/1-af9d171c.js",
+    "file": "svelte-project/immutable/chunks/1-5f0623a5.js",
     "imports": [
       "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.589_svelte@3.58.0_vite@4.3.5/node_modules/@sveltejs/kit/src/runtime/components/error.svelte"
     ],
@@ -17,7 +17,7 @@
     "src": ".svelte-kit/generated/nodes/1.js"
   },
   ".svelte-kit/generated/nodes/2.js": {
-    "file": "_app/immutable/chunks/2-4e13e112.js",
+    "file": "svelte-project/immutable/chunks/2-2896d5ab.js",
     "imports": [
       "src/routes/+page.svelte"
     ],
@@ -25,13 +25,13 @@
     "src": ".svelte-kit/generated/nodes/2.js"
   },
   "__layout-da46b06b.js": {
-    "file": "_app/immutable/chunks/_layout-da46b06b.js"
+    "file": "svelte-project/immutable/chunks/_layout-da46b06b.js"
   },
   "_index-f4b03af9.js": {
-    "file": "_app/immutable/chunks/index-f4b03af9.js"
+    "file": "svelte-project/immutable/chunks/index-f4b03af9.js"
   },
-  "_singletons-c798450b.js": {
-    "file": "_app/immutable/chunks/singletons-c798450b.js",
+  "_singletons-b194e577.js": {
+    "file": "svelte-project/immutable/chunks/singletons-b194e577.js",
     "imports": [
       "_index-f4b03af9.js"
     ]
@@ -42,29 +42,29 @@
       ".svelte-kit/generated/nodes/1.js",
       ".svelte-kit/generated/nodes/2.js"
     ],
-    "file": "_app/immutable/start-a676a54e.js",
+    "file": "svelte-project/immutable/start-5c402e86.js",
     "imports": [
       "_index-f4b03af9.js",
-      "_singletons-c798450b.js"
+      "_singletons-b194e577.js"
     ],
     "isEntry": true,
     "src": "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.589_svelte@3.58.0_vite@4.3.5/node_modules/@sveltejs/kit/src/runtime/client/start.js"
   },
   "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.589_svelte@3.58.0_vite@4.3.5/node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
-    "file": "_app/immutable/components/error.svelte-022e94c2.js",
+    "file": "svelte-project/immutable/components/error.svelte-eef7d598.js",
     "imports": [
       "_index-f4b03af9.js",
-      "_singletons-c798450b.js"
+      "_singletons-b194e577.js"
     ],
     "isEntry": true,
     "src": "node_modules/.pnpm/@sveltejs+kit@1.0.0-next.589_svelte@3.58.0_vite@4.3.5/node_modules/@sveltejs/kit/src/runtime/components/error.svelte"
   },
   "src/routes/+layout.css": {
-    "file": "_app/immutable/assets/_layout-0d74118a.css",
+    "file": "svelte-project/immutable/assets/_layout-0d74118a.css",
     "src": "src/routes/+layout.css"
   },
   "src/routes/+layout.js": {
-    "file": "_app/immutable/modules/pages/_layout.js-9cbb603b.js",
+    "file": "svelte-project/immutable/modules/pages/_layout.js-9cbb603b.js",
     "imports": [
       "__layout-da46b06b.js"
     ],
@@ -73,9 +73,9 @@
   },
   "src/routes/+layout.svelte": {
     "css": [
-      "_app/immutable/assets/_layout-0d74118a.css"
+      "svelte-project/immutable/assets/_layout-0d74118a.css"
     ],
-    "file": "_app/immutable/components/pages/_layout.svelte-2bd627ff.js",
+    "file": "svelte-project/immutable/components/pages/_layout.svelte-189e5637.js",
     "imports": [
       "_index-f4b03af9.js"
     ],
@@ -83,14 +83,14 @@
     "src": "src/routes/+layout.svelte"
   },
   "src/routes/+page.css": {
-    "file": "_app/immutable/assets/_page-48d0327f.css",
+    "file": "svelte-project/immutable/assets/_page-48d0327f.css",
     "src": "src/routes/+page.css"
   },
   "src/routes/+page.svelte": {
     "css": [
-      "_app/immutable/assets/_page-48d0327f.css"
+      "svelte-project/immutable/assets/_page-48d0327f.css"
     ],
-    "file": "_app/immutable/components/pages/_page.svelte-1810d1f8.js",
+    "file": "svelte-project/immutable/components/pages/_page.svelte-18f16868.js",
     "imports": [
       "_index-f4b03af9.js"
     ],
